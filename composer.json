@@ -1,5 +1,5 @@
 {
-  "name": "omz13/kirby3-htmlsitemap",
+  "name": "duncan412/kirby3-htmlsitemap",
   "type": "kirby-plugin",
   "description": "kirby3 plugin to generate a html-based (user-facing) sitemap",
   "keywords": [
